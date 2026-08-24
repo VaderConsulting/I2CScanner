@@ -2,6 +2,7 @@
 
 Arduino sketch that walks I2C addresses 8–119 and prints every device that acknowledges on the bus. Written by Nick Gammon (20 April 2011); this is Dave Robinson's working copy from the Arduino archive. It uses `Wire` at 115200 baud and reports both decimal and hex addresses plus a device count.
 
+**Source last updated:** 2020-10-23  
 **Language:** C++ / Arduino  
 **Target:** Arduino with I2C (`Wire`); Leonardo waits for Serial  
 **Output:** Arduino sketch
