@@ -17,6 +17,10 @@ Arduino sketch that walks I2C addresses 8-119 and prints every device that ackno
 
 Open `I2CScanner.ino` in the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 Original author: Nick Gammon (I2C Scanner, 20 April 2011). This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with Nick Gammon.
