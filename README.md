@@ -27,4 +27,4 @@ Original author: Nick Gammon (I2C Scanner, 20 April 2011). This repository is my
 
 ## License
 
-Original author terms apply to Nick Gammon's sketch. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file in this tree is the VaderConsulting MIT wrapper from import and does not re-attribute authorship.
+Original author terms apply to Nick Gammon's sketch. See `THIRD_PARTY_NOTICES.md`. The `LICENSE` file in this tree is the Vader Consulting MIT wrapper from import and does not re-attribute authorship.
